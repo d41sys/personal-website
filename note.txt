@@ -1,0 +1,4 @@
+Chỉ cần 1 layout và các component riêng là được.
++ Cần phân chia lại các component cho hợp lý và chỉnh sửa các style của các component.
+
+https://zchry.org/
